@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 align="center">Ktizo Studios - Music Production Website</h2>
+  <h2 align="center">Foodie - Food Enthusiasts Website</h2>
 
  Foodie a modern and visually appealing web application designed for food enthusiasts. <br/> Built using React.js &amp; Tailwind CSS. <br/>
 
