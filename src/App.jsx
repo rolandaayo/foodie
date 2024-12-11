@@ -7,17 +7,25 @@ import Hero from './components/Hero'
 import Hero2 from './components/Hero2'
 import Foods from './components/Foods'
 import Burger from './components/Burger'
+import { CartProvider } from './context/CartContext';
+import Cart from './components/Cart';
+import { AuthProvider } from './context/AuthContext';
 
 export default function App() {
   return (
-    <div>
-      <Navbar/>
-      <Header/>
-      <Hero/>
-      <Hero2/>
-      <Foods/>
-      <Burger/>
-      <Footer/>
-    </div>
+    <AuthProvider>
+      <CartProvider>
+        <div>
+          <Navbar/>
+          <Header/>
+          <Hero/>
+          <Hero2/>
+          <Foods/>
+          <Burger/>
+          <Cart />
+          <Footer/>
+        </div>
+      </CartProvider>
+    </AuthProvider>
   )
 }
