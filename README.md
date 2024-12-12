@@ -26,7 +26,7 @@ To install **Foodie**, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/rolandaayo/ktizo-studios.git
+sudo git clone https://github.com/rolandaayo/foodie.git
 ```
 
 Windows:
