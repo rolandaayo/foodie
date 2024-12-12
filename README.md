@@ -3,7 +3,7 @@
 
   Foodie is a fully responsive food ordering website, Responsive for all devices. <br/> Built using React.js &amp; Tailwind CSS. <br/>
 
-  <a href="https://rolandaayo.github.io/ktizo-studios/"><strong>➥ Live Demo</strong></a>
+  <a href="https://foodie-w3b.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -32,7 +32,7 @@ sudo git clone https://github.com/rolandaayo/ktizo-studios.git
 Windows:
 
 ```bash
-git clone https://github.com/rolandaayo/ktizo-studios.git
+git clone https://github.com/rolandaayo/foodie.git
 ```
 
 ## 💬 Contact
