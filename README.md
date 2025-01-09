@@ -13,6 +13,8 @@
 
 ![Micro Desktop Demo](./readme-images/readme-1.png "Desktop Demo")
 
+🍔 Foodie a modern and visually appealing web application built with React and Tailwind CSS, designed for food enthusiasts. The project showcases an elegant UI featuring mouth-watering food items, recipe details, and a seamless user experience. Perfect for exploring dishes or presenting culinary content.
+
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
